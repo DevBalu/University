@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Lato:300);
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  font-smoothing: antialiased;
+}
+.content {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-family: "Raleway";
+  font-weight: 300;
+  color: #333;
+  margin: 30px 0 30px 0;
+}
+.text {
+  font-size: 16px;
+  color: #848484;
+  font-family: "Lato";
+  line-height: 27px;
+  word-spacing: 3px;
+}
+hr {
+    position: relative;
+    border: none;
+    bottom: 15px;
+}
+hr:before {
+    content: " ";
+    position: absolute;
+    background: #ccc;
+    top: 0;
+    left: 20%;
+    width: 56%;
+    height: 3px;
+}
+
+/*-----------------Navbar ------------------------*/
+.navbar_bg {
+  position: fixed;
+  background: #222;
+  width: 100vw;
+  height: 50px;
+  border-bottom: 2px solid #000;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  z-index: 3000;
+}
+.regs {
+  color: red;
+}
+.navbar {
+  position: fixed;
+  background: #222;
+  width: 100%;
+  height: 48px;
+}
+.navbar div {
+  float: left;
+  list-style-type: none;
+  height: 48px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+.navbar div a {
+  text-decoration: none;
+  color: #b0b0b0;
+  font-family: "Lato";
+  font-size: 16px;
+  padding: 10px 15px;
+}
+.nav1 {
+  position: fixed;
+  right: 0;
+}
+.nav div a:nth-child(1){
+color: #fff;
+}
+.navbar div:hover {
+  background: #000;
+  height:48px;
+}
+.navbar div a:hover {
+  color: #fff;
+}
+.fa-skyatlas {
+  color: #3498DB;
+  font-size: 25px;
+  padding: 9px 20px  0 10px;
+}
+/* END navbar */
+/* form registration */
+.intform{
+	padding-top: 200px; 
+}
+/* END form registration */

@@ -1,0 +1,22 @@
+body {
+  background: #fff;
+}
+
+.container {
+  width:800px;
+  margin:auto;
+  background: #fff;
+  margin-top: 200px;
+}
+
+.align-button {
+  float: left;
+}
+
+button {
+  font-size:16px;
+}
+
+p {
+  font-size:24px;
+}
