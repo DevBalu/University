@@ -1,0 +1,19 @@
+a {
+	color: #fff !important;
+	text-decoration: none !important;
+}
+ a:hover {
+	color:#39CCCC !important;
+	padding: 50px;
+}
+/*.contaner{
+	margin-top: 80px;
+}
+.teme {
+	border: 1px solid #000;
+	height: 200px;
+	position: center;
+}
+.global {
+	margin-top: 80px;
+}

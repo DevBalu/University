@@ -1,0 +1,32 @@
+.admin {
+	background: url(USER.jpg) no-repeat center center;
+	background-size: cover;
+	width: 100vw;
+	height: 400px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	/*color: rgb(227, 143, 129);*/
+	color: #fff;
+	text-shadow: 2px 1px 5px #000;
+}
+.admin h1 p{
+	/*color: rgb(227, 143, 129);*/
+	font-size: 35px;
+	color: #fff;
+}
+.message {
+	color: rgb(227, 143, 129);
+	font-size: 35px;
+	text-align: center;
+}
+.prop {
+	color: rgb(227, 143, 129);
+	text-align: center;
+	margin: 0px 0 5px 0;
+}

@@ -1,0 +1,188 @@
+/*---------------------------------------------------------------------*/
+/*---------------------INDEX.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+/*navbar*/
+.el_righ {
+	font-size: 1em !important;
+}
+/*END navbar*/
+
+/*--------------FIRST SECTION-----------------*/
+/*greeting*/
+.welcome {
+	background: url("24.jpg") no-repeat center center;
+	background-size: cover;
+	height: 400px;
+}
+.welcome h1 {
+	margin: 0 !important;
+	font-size: 50px;
+}
+.welc_info {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+}
+/*END greeting*/
+/*--------------FEND IRST SECTION-----------------*/
+
+/*--------------SECOND SECTION-----------------*/
+@media screen and (min-width: 1000px){
+	.box1, .box2 {
+		padding: 40px !important;
+	}
+}
+.box1 {
+	margin-top: 20px;
+	font-size: 50px;
+	border-right: solid 1px #7f7e78;
+}
+.button:hover {
+	color: #39CCCC;
+}
+.button {
+	margin-right: 20px;
+	border: solid 1px #7f7e78;
+	border-radius: 25px;
+	height: 50px;
+	width: 150px;
+	color:#7f7e78 ;
+	text-align: center;
+	text-decoration: none;
+	float: right;
+	font-size: 16px;
+	padding: 12px;
+}
+.h1{
+	color: #39CCCC;
+	font: 50px Georgia;
+	position: 50%;
+}
+p{
+	color:#837f7f;
+	font-size: 20px;
+	font-style: Georgian;
+	line-height: 30px;
+}
+.box2 {
+	font-size: 25px;
+}
+.powered {
+	font-size: 15px;
+}
+/*----------END SECOND SECTION-----------------*/
+
+/*---------------------------------------------------------------------*/
+/*---------------------END INDEX.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------*/
+/*---------------------HOME.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+.lering {
+	height: 400px;
+	background: url("home.jpg") no-repeat center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 10px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	color: #c191a0;
+}
+.lectii {
+	min-height: 200px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+}
+.lectii a {
+	text-decoration: none;
+	color: #3b6d86;
+	text-align: center;
+}
+
+/*---------------------------------------------------------------------*/
+/*---------------------END HOME.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------*/
+/*---------------------action.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+.top {
+	height: 400px;
+	background: url("action.jpg") no-repeat center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	color: #938383;
+}
+.imag {
+	background: url("emblema.jpg") no-repeat center center;
+	width: 100%;
+	height: 300px;
+}
+
+.box_action {
+	padding: 10px;
+}
+.box_action1 {
+	font-size: 20px;
+}
+.box_action2 {
+	font-size: 20px;
+}
+.box_action3 {
+	font-size: 20px;
+	padding: 20px !important;
+} 
+/*---------------------------------------------------------------------*/
+/*---------------------END action.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------*/
+/*---------------------evenimente.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+.intro_evenimente {
+	max-height: 57px;
+	overflow: hidden;
+}
+.rind {
+	min-height: 300px !important;
+}
+/*---------------------------------------------------------------------*/
+/*---------------------laering.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+.lering h1{
+	color:#670c28;
+}
+/*---------------------------------------------------------------------*/
+/*---------------------END evenimente.PHP-------------------------*/
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/

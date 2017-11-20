@@ -1,0 +1,122 @@
+
+/*.lering{
+	width: 100%;
+	height: 400px;
+	background-size: cover;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+}
+}
+h1{
+	color:#fff;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 40px;
+}
+h2{
+	color:#938383;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+.content-left{
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 700px;
+	height: 300px;
+	border-right: 1px solid #000;
+	float:left;
+
+}
+.content-right{
+	float:left;
+
+}
+.grammar{
+	margin-top: 300px;
+	padding: 100px;
+	text-align: center;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+.test {
+	width: 80%;
+	margin-left: 15%;
+}
+.test2 p {
+	margin: 0;
+	padding-left: 20px;
+}
+
+.coment input{
+	margin-top: 20px;
+	margin-left: 40px;
+	border-radius: 15px;
+	border:none;
+	border-top:5px solid #efb1b1; ;
+	border-bottom: 5px solid #938383;;
+	outline: none;
+	-webkit-transition: width .35s ease-in-out;
+	transition: width .35s ease-in-out;
+	font-family: Arial ;
+}
+.coment input:focus{
+		width: 230px;
+		border:solid 1px #000;
+}
+.coment textarea{
+	margin-top: 20px;
+	margin-left: 40px;
+	border-radius: 15px;
+	border:none;
+	border-top:5px solid #efb1b1;
+	border-bottom: 5px solid #938383;
+	outline: none;
+	-webkit-transition: width .35s ease-in-out;
+	transition: width .35s ease-in-out;
+	font-family: Arial ;
+}
+ .coment textarea:focus {
+	border: 3px solid #7f7e78;
+	width:300px !important;
+}
+.coment i{
+color: #938383;
+margin-left: 40px;
+}
+.coment button{
+	margin-top: 20px;
+	margin-left: 30%;
+	border-radius: 15px;
+	border:none;
+	border-top:5px solid #efb1b1; ;
+	border-bottom: 5px solid #938383;;
+	outline: none;
+	-webkit-transition: width .35s ease-in-out;
+	transition: width .35s ease-in-out;
+	font-family: Arial ;
+}
+.coment button:focus{
+		width: 230px;
+		border:solid 1px #000;
+}
+.dialog {
+	display: inline-block !important;
+}
+.vocabular {
+	display: inline-block !important;
+}*/
+.comh {
+	display: none !important;
+}
+.coma {
+	display: block !important;
+}

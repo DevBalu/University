@@ -1,0 +1,16 @@
+#adauga {
+	width: 500px;
+	position: absolute;
+	right: 100px;
+	z-index: 2000;
+}
+.rotate {
+	transform: rotate(180deg);
+}
+
+.ach {
+	display: none !important;
+}
+.aco {
+	display: block !important;
+}
